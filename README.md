@@ -1,5 +1,5 @@
-# libresample
-NethServer RPM for libresample
+# mISDNuser
+NethServer RPM for mISDNuser
 Based on Nux/Lux/Ghettoforge source RPM
 
 
