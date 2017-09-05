@@ -1,7 +1,7 @@
 %define commit 3638cf3
 Name:          mISDNuser
 Version:       2.0.19
-Release:       1.2
+Release:       1.2%{dist}
 Summary:       User space tools for the mISDN driver
 Group:         System/Kernel and Hardware
 URL:           http://www.misdn.org
